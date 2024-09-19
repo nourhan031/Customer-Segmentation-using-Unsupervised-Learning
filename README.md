@@ -1,4 +1,4 @@
-# E-commerce Customer Segmentation Project
+# Customer Segmentation using Unsupervised Learning
 
 ## Project Overview
 This project focuses on segmenting e-commerce customers based on their demographic and transactional behaviors. 
